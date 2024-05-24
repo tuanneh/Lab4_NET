@@ -1,0 +1,12 @@
+C:\Users\tuant\source\repos\QuanNet\QuanNet\bin\Debug\QuanNet.exe.config
+C:\Users\tuant\source\repos\QuanNet\QuanNet\bin\Debug\QuanNet.exe
+C:\Users\tuant\source\repos\QuanNet\QuanNet\bin\Debug\QuanNet.pdb
+C:\Users\tuant\source\repos\QuanNet\QuanNet\obj\Debug\QuanNet.csproj.AssemblyReference.cache
+C:\Users\tuant\source\repos\QuanNet\QuanNet\obj\Debug\QuanNet.Menu.resources
+C:\Users\tuant\source\repos\QuanNet\QuanNet\obj\Debug\QuanNet.Properties.Resources.resources
+C:\Users\tuant\source\repos\QuanNet\QuanNet\obj\Debug\QuanNet.csproj.GenerateResource.cache
+C:\Users\tuant\source\repos\QuanNet\QuanNet\obj\Debug\QuanNet.csproj.CoreCompileInputs.cache
+C:\Users\tuant\source\repos\QuanNet\QuanNet\obj\Debug\QuanNet.exe
+C:\Users\tuant\source\repos\QuanNet\QuanNet\obj\Debug\QuanNet.pdb
+C:\Users\tuant\source\repos\QuanNet\QuanNet\obj\Debug\QuanNet.formNguoiDung.resources
+C:\Users\tuant\source\repos\QuanNet\QuanNet\obj\Debug\QuanNet.formThongTinMay.resources
